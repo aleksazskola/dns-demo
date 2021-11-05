@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "scrollbit": "github:pimoroni/pxt-scrollbit#v0.0.7"
     },
     "files": [
         "main.blocks",
